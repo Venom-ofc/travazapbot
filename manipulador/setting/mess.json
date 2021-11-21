@@ -1,0 +1,27 @@
+{
+    "actioncall": "*⚠️ANTILIGACAO*\nDesculpe automaticamente bloqueado pelo sistema, não ligue para este número , criei um especial com bot de segurança  total.\n\n*ING*\nDesculpe automaticamente bloqueado pelo sistema, nao ligue para este número  Eu montei especialmente com segurança  total de bot⚠️",
+    "menu": "*🐊Aguarde estou enviando o menu🐊*",
+    "wait": "*_🔍Espere que o seu pedido seja processado🔍_*",
+    "success": {
+    "ses": "✔Sucesso✔",
+    "caseon": "✔Sucesso na ativação  do recurso✔",
+    "caseoff": "✔Sucesso ao desativar o recurso✔"
+    },
+    "onoff": "⚠️Por favor, insira os parâmetros  de ativação  / desativação⚠️",
+    "fromMe": {
+        "self": "*✔MODO:* Privado\n_No modo automático , apenas o proprietário  pode receber comandos por bot🐊_",
+        "public": "*✔MODO:* Público \n_Quando o modo público , todos podem receber comandos por bot🐊_"
+    },
+    "error": {
+        "Iv": "⚠️O link que você forneceu não é valido⚠️",
+        "api": "⚠️Desculpe, ocorreu um erro⚠️"
+    },
+    "antiE": "⚠️*ERROR* o comando foi ativado anteriormente.",
+    "antiA": " ⚠️ *ERROR* o comando foi desativado anteriormente.",
+    "OnlyGrup": "🧐Este comando so pode ser usado em grupos🧐",
+    "OnlyPM": "🧐Este comando so pode ser usado em mensagens privadas🧐",
+    "GrupAdmin": "👺Este comando so pode ser usado pelo Admin do Grupo👺",
+    "BotAdmin": "👺O bot deve ser administrador👺",
+    "OnlyOwner": "🤬Este comando so pode ser usado pelo proprietário  venom🤬",
+    "OnlyPrem": "🤑Este pedido so é apenas para membros premium🤑"
+}

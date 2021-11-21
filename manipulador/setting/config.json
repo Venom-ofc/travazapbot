@@ -1,0 +1,23 @@
+{
+    "packName": "VENOM-BOT",
+    "authName": "Melhor bot para Whatsapp by venom mods",
+    "manipulador": "./start/Admvenom.js",
+    "participants": "./start/group.js",
+    "session": "./manipulador/session/Admvenom.json",
+    "rename": "./manipulador/session/Admvenom.json",
+    "ownerNumber": [
+        "559784388524@s.whatsapp.net",
+        "37122291651@s.whatsapp.net"
+    ],
+   "style" : {
+   "satu":"•",
+   "dua":"*>"
+   },
+   "ownertunggal": "37122291651",
+   "ownernama": "Venom-ofc",
+   "bufferReply": "./database/media/bufferReply/photoFakeStatus.jpeg",
+   "FacebookB" :"447710173736@s.whatsapp.net",
+   "whatsapp" :"0@s.whatsapp.net",
+   "revokedd": "37122291651-1629287518@g.us",
+   "codeinvit": "EiznDZqIWu40QPVO0Q9MVn"
+   }
