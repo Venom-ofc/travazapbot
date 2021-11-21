@@ -1,6 +1,6 @@
-# © 𝑽𝑬𝑵𝑶𝑴𝑩𝑲𝑻 𝑳𝑬𝑵𝑻® 
- <div> <a href="https://ibb.co/mFtmFp6"><img src="https://i.ibb.co/JF2NFZ5/Venom-Pulls.jpg" alt="Venom-Pulls" border="0"></a>
- </div>   
+# © 𝑽𝑬𝑵𝑶𝑴𝑩𝑶𝑻 𝑳𝑬𝑵𝑻® 
+ <a href="https://ibb.co/pjJ48XX"><img src="https://i.ibb.co/5hBsycc/Develop.jpg" alt="Develop" border="0"></a>
+<div>   
 
  𝐀 𝐨𝐫𝐠𝐚𝐧𝐢𝐳𝐚ç𝐚𝐨 𝐁𝐨𝐭 𝐖𝐚 𝐌𝐞𝐦𝐛𝐞𝐫𝐬 𝐥𝐚𝐧ç𝐚 𝐬𝐞𝐮 𝐩𝐫𝐢𝐦𝐞𝐢𝐫𝐨 𝐛𝐨𝐭 𝐭𝐫𝐚𝐯𝐚𝐳𝐚𝐩 
 𝐔𝐦 𝐛𝐨𝐭 𝐩𝐚𝐫𝐚 𝐚𝐣𝐮𝐝𝐚𝐫 𝐬𝐮𝐚 𝐟𝐜𝐜 𝐨𝐮 𝐠𝐫𝐮𝐩𝐨𝐬 𝐝𝐞 𝐰𝐡𝐚𝐭𝐬𝐚𝐩𝐩!  
