@@ -35,6 +35,20 @@ bash install.sh
 
 npm start
 ``` 
+## 𝐁𝐚𝐢𝐱𝐞 𝐨 𝐧𝐨𝐝𝐞_𝐦𝐨𝐝𝐮𝐥𝐞𝐬
+```
+https://www.mediafire.com/download/8si3owe2faoy9p2
+
+```
+### 𝐮𝐬𝐞𝐫 𝐩𝐚𝐫𝐚 𝐦𝐨𝐯𝐞𝐫 𝐨 𝐧𝐨𝐝𝐞-𝐦𝐨𝐝𝐮𝐥𝐞𝐬 𝐩𝐫𝐨 𝐛𝐨𝐭
+```
+cp -r /sdcard/download/node_modules $HOME/travazapbot 
+
+```
+### 𝐮𝐬𝐞 𝐩𝐚𝐫𝐚 𝐞𝐱𝐭𝐫𝐚𝐢 𝐨 𝐧𝐨𝐝𝐞_𝐦𝐨𝐝𝐮𝐥𝐞𝐬
+```
+cd travazapbot && unzip node_modules.zip
+```
 
 ## 𝐂𝐨𝐦𝐚𝐧𝐝𝐨𝐬 𝐩𝐚𝐫𝐚 𝐢𝐧𝐬𝐭𝐚𝐥𝐚ç𝐚𝐨 𝐧𝐨 𝐋𝐢𝐧𝐮𝐱 
 
