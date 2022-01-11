@@ -1,1 +1,13 @@
-const _0x25cb03=_0x344b;function _0x344b(_0x3da1a8,_0x2b0661){const _0x5bf3d7=_0x5bf3();return _0x344b=function(_0x344b74,_0x1c2938){_0x344b74=_0x344b74-0x87;let _0x1707dc=_0x5bf3d7[_0x344b74];return _0x1707dc;},_0x344b(_0x3da1a8,_0x2b0661);}function _0x5bf3(){const _0x5459c6=[ 585aniwQU , 15465UoupPs , \x0a*\x0a*🐊NÚMERO\x20DO\x20MEU\x20CRIADOR\x20VENOM🐊*\x0a\x0ahttp://Wa.me/+559784388524?text=me%20come😏\x0a\x0aPor\x20favor,\x20use\x20o\x20atraso,\x20não\x20envie\x20spam\x20ao\x20\x20chamar\x0a,\x20respondendo\x20todos\x0a\x0a──「\x20*VENOMBOT\x20LENT*\x20」── , 560jKHZSh , 1379422orKWME , 381891jkMfuC , 64992Sqhuaj , 34542oxCTdd , 15244190nxdwUX , 70665UNUyxn , dono , 366iNxPXo ];_0x5bf3=function(){return _0x5459c6;};return _0x5bf3();}(function(_0x5d360a,_0x31d537){const _0x3b38f7=_0x344b,_0x694dbf=_0x5d360a();while(!![]){try{const _0x1f826f=-parseInt(_0x3b38f7(0x8f))/0x1+parseInt(_0x3b38f7(0x8e))/0x2+parseInt(_0x3b38f7(0x91))/0x3+-parseInt(_0x3b38f7(0x8d))/0x4*(-parseInt(_0x3b38f7(0x8b))/0x5)+-parseInt(_0x3b38f7(0x89))/0x6*(-parseInt(_0x3b38f7(0x87))/0x7)+parseInt(_0x3b38f7(0x90))/0x8*(parseInt(_0x3b38f7(0x8a))/0x9)+-parseInt(_0x3b38f7(0x92))/0xa;if(_0x1f826f===_0x31d537)break;else _0x694dbf[ push ](_0x694dbf[ shift ]());}catch(_0x20cea1){_0x694dbf[ push ](_0x694dbf[ shift ]());}}}(_0x5bf3,0x5ac4e));const dono=_0x2f9a2f=>{const _0x558a63=_0x344b;return _0x558a63(0x8c);};exports[_0x25cb03(0x88)]=dono;
+const dono = (prefix) => {
+        return `
+*
+*🐊NÚMERO DO MEU CRIADOR VENOM🐊*
+
+http://Wa.me/+559784388524?text=me%20come😏
+
+Por favor, use o atraso, não envie spam ao  chamar
+, respondendo todos
+
+──「 *VENOMBOT LENT* 」──`
+}
+exports.dono = dono
